@@ -32,7 +32,7 @@ PEP-X is a bash based script works on both rooted and non-rooted devices.From th
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/himanshu91663/PEP-X`
 * `cd $HOME`
 * `ls`
 * `cd PEP-X`
@@ -57,7 +57,7 @@ __EXIT__ :
 
 ## CONNECT WITH ME :
 
-[![Instagram](https://instagram.com/https.himanshu?igshid=YmMyMTA2M2Y=)
+[Instagram](https://instagram.com/https.himanshu?igshid=YmMyMTA2M2Y=)
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for any other purpose, I'm not responsible for it.***
