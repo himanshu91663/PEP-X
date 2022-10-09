@@ -13,16 +13,16 @@ PEP-X is a bash based script works on both rooted and non-rooted devices.From th
 * Termux
 
 ### REQUIREMENTS :
-* internet
+* internet connection
 * external storage permission
 * storage 400 MB
 * 1gb ram
 
 ## FEATURES :
-* [+] Dangerous virus tool !
+* [+] Trojan virus tool !
 * [+] Updated maintainence !
 * [+] Easy for beginners !
-* [+] Working virus tool for termux !
+* [+] Working tool for termux !
 
 ## INSTALLATION [Termux] :
 
@@ -35,9 +35,9 @@ PEP-X is a bash based script works on both rooted and non-rooted devices.From th
 * `git clone https://github.com/noob-hackers/infect`
 * `cd $HOME`
 * `ls`
-* `cd infect`
+* `cd PEP-X`
 * `ls`
-* `bash infect.sh`
+* `bash PEP-X.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
@@ -46,7 +46,7 @@ PEP-X is a bash based script works on both rooted and non-rooted devices.From th
 ## USAGE OPTIONS [Termux] :
 
 __VIRUS__ :
-- From this option you will get link of virus in your termux just send that link to your victim and let the fun happen.
+- From this option you will get link of virus in your termux and just send that link to your victim.
 
 __ANTIVIRUS__ :
 - From this option you can repair damaged device of your victm from that virus by just installing this anti-virus in his device.
@@ -57,7 +57,7 @@ __EXIT__ :
 
 ## CONNECT WITH ME :
 
-[![Instagram]
+[![Instagram](https://instagram.com/https.himanshu?igshid=YmMyMTA2M2Y=)
 
 ## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***This tool is only for educational purpose. If you use this tool for any other purpose, I'm not responsible for it.***
