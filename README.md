@@ -1,7 +1,8 @@
+>> GIVE CREDITS HERE - @https.himanshu (IG)
 
 ## ABOUT TOOL :
 
-PEP-X is a bash based script works on both rooted and non-rooted devices.From this tool,You can spread virus through a payload based APK
+PEP-X is a bash based script works on both rooted and non-rooted devices.From this tool,You can spread virus through a payload based APK.Trojan is transferred through the APK to the victim
 
 ## AVAILABLE ON :
 
